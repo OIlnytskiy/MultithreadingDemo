@@ -1,0 +1,6 @@
+D:\Repository\Multithreading\Multithreading\bin\Debug\Multithreading.exe.config
+D:\Repository\Multithreading\Multithreading\bin\Debug\Multithreading.exe
+D:\Repository\Multithreading\Multithreading\bin\Debug\Multithreading.pdb
+D:\Repository\Multithreading\Multithreading\obj\Debug\Multithreading.csprojResolveAssemblyReference.cache
+D:\Repository\Multithreading\Multithreading\obj\Debug\Multithreading.exe
+D:\Repository\Multithreading\Multithreading\obj\Debug\Multithreading.pdb
